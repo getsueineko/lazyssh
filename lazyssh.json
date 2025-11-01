@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "Lazyssh is a terminal-based, interactive SSH manager inspired by tools like lazydocker and k9s — but built for managing your fleet of servers directly from your terminal.",
     "homepage": "https://github.com/Adembc/lazyssh",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Adembc/lazyssh/releases/download/v0.2.1/lazyssh_Windows_x86_64.zip",
-            "hash": "4b266856939d5003292cfbe78a6fc06173fe6e5dfc4a2b89127c0a9d2992243b"
+            "url": "https://github.com/Adembc/lazyssh/releases/download/v0.3.0/lazyssh_Windows_x86_64.zip",
+            "hash": "ca4353a910e453deb5de68c95d83aa8738ff0e52c4bff919f6d74dc27560a1df"
         }
     },
     "bin": "lazyssh.exe"
